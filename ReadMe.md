@@ -7,7 +7,7 @@
 - [Objective](#objective)
 - [Data Analysis Process](#data-analysis-process)
 - [Contents](#Contents)
-- [Key Findings](#key findings)
+- [Key Findings](#keyfindings)
 - [Conclusion](#conclusion)
 
 
