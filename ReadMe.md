@@ -76,3 +76,8 @@ The Bellabeat app needs to be entirely redesigned and updated. Instead of only o
 
 This case study aimed to analyze Fitbit users' smart device usage in order to pinpoint possible areas of growth for Bellabeat, a wellness brand, and enhance their marketing approach. It can be inferred from the data that most users of fitness smart devices are employed individuals who are unable to fit in the prescribed number of active minutes because of their hectic schedules. It is therefore advised that Bellabeat target working professionals with its marketing strategy and product offerings by offering customized exercise plans and introducing mild inactivity alarms. Furthermore, because sleep has so many advantages, it is advised to highlight how important it is. These suggestions and findings stem from the Fitbit data analysis. However, further analysis into other smart device companies such as the Apple Watch or Garmin is advised to support these results and provide additional insight into Bellabeat’s strategies.
 
+
+To view the Tableau dashboards, visit my profile:
+https://public.tableau.com/app/profile/poornashree.subramanian/viz/GoogleDataAnalyticsCapstoneBellabeatCaseStudy/Sheet17
+
+
